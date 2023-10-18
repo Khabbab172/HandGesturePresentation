@@ -14,7 +14,6 @@ The Hand Gesture Presentation Software is a Python application that enables user
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Technologies Used](#technologies-used)
 
 ## Installation
 
