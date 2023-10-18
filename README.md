@@ -16,18 +16,28 @@ The Hand Gesture Presentation Software is a Python application that enables user
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Documentation](#documentation)
-- [Demo](#demo)
 - [Technologies Used](#technologies-used)
-- [License](#license)
-- [Contact](#contact)
 
 ## Installation
 
 ### Prerequisites
 
-- Python 3.x
+- Python 3.10.9 
 - Install required dependencies:
 
   ```bash
   pip install -r requirements.txt
+  
+## Usage
+
+```bash
+git clone https://github.com/your-username/hand-gesture-presentation.git
+pip install cvzone
+pip install mediapipe
+
+
+
+
+
+
+ 
