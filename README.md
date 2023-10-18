@@ -10,8 +10,6 @@ The Hand Gesture Presentation Software is a Python application that enables user
 
 - **Real-time Feedback:** Receive real-time feedback on hand positions and gestures for a smooth presentation experience.
 
-- **Customizable Gestures:** Configure and customize gestures based on your presentation preferences.
-
 ## Table of Contents
 
 - [Installation](#installation)
@@ -29,11 +27,16 @@ The Hand Gesture Presentation Software is a Python application that enables user
   pip install -r requirements.txt
   
 ## Usage
-
+- forefinger and middle finger show pointer on slide
+- to draw on slide close middle finger and draw using forefinger
+- to move slide backward use thumb
+- to move slide foreward use index finger
 ```bash
 git clone https://github.com/your-username/hand-gesture-presentation.git
 pip install cvzone
 pip install mediapipe
+
+
 
 
 
